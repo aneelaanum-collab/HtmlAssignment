@@ -2,7 +2,6 @@
 
  its not work
 
-<<<<<<< HEAD
  but i think 
 
  its work now 
@@ -12,6 +11,3 @@ try to test
 is it work or not
 
  
-=======
- but i think 
->>>>>>> parent of d2544ba (test)
