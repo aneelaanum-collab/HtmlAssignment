@@ -244,4 +244,29 @@ textarea {
     page-break-after: avoid;
   }
 }
+body {
+  color: green;
+}
+header
+{
 
+}
+h1 {
+  text-align: center;
+  image-orientation: flip;
+}
+.paragraph {
+  font-size: 10pt ;
+  font-family: "aptos", sans-serif;
+}
+
+#link a {
+  background-color: darkslategrey;
+  color: white;
+  padding: 14px 16px;
+  border-radius: 50px;
+  display: inline-block;
+}
+#greendiv {
+  background-color: darkseagreen;
+}
